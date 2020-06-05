@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="21688332t" end="54220832t" style="normal" xml:id="subtitle0">Hey, wow. Das ist ja wirklich der Hammer.</p>
+<p begin="55054999t" end="84667916t" style="normal" xml:id="subtitle1">-Nicht wahr, Pikachu?<br/>-Pikachu!</p>
+<p begin="85502082t" end="96763332t" style="normal" xml:id="subtitle2">[lacht]</p>
+<p begin="109275832t" end="148481666t" style="normal" xml:id="subtitle3">[Erzähler]<br/>Mele-Mele, eine Insel der Alola-Region.</p>
+<p begin="149315832t" end="205622082t" style="normal" xml:id="subtitle4">Ash und Pikachu machen dort Ferien<br/>und haben jede Menge Spaß.</p>
+<p begin="206456250t" end="216883332t" style="normal" xml:id="subtitle5">[Ash]<br/>Okay.</p>
+<p begin="217717499t" end="254420832t" style="normal" xml:id="subtitle6">-Jetzt gib mal Vollgas, Tohaido.<br/>-Tohaido.</p>
+<p begin="359108750t" end="370787082t" style="normal" xml:id="subtitle7">[gurgelt]</p>
+<p begin="416249166t" end="443776666t" style="normal" xml:id="subtitle8">-[keucht]<br/>-Pika.</p>
+<p begin="511761249t" end="542625416t" style="normal" xml:id="subtitle9">[keucht]</p>
+<p begin="543459582t" end="582248332t" style="normal" xml:id="subtitle10">-[brüllt]<br/>-[schreit]</p>
+<p begin="583082500t" end="607690416t" style="normal" xml:id="subtitle11">[Ash keucht]</p>
+<p begin="631881250t" end="685267916t" style="normal" xml:id="subtitle12">-Pika.<br/>-[keucht]</p>
+<p begin="686102082t" end="700282916t" style="normal" xml:id="subtitle13">Bin wieder da.</p>
+<p begin="701117082t" end="722805416t" style="normal" xml:id="subtitle14">[kichern]</p>
+<p begin="723639582t" end="740322916t" style="normal" xml:id="subtitle15">[beide kichern]</p>
+<p begin="741157082t" end="779111666t" style="normal" xml:id="subtitle16">[kichert]</p>
+<p begin="820820000t" end="846679166t" region="top" style="normal" xml:id="subtitle17">♪ An diese Sonne<br/>Gewöhn ich mich gern ♪</p>
+<p begin="847513332t" end="889638749t" region="top" style="normal" xml:id="subtitle18">♪ Mir sind leider die Tage zu kurz<br/>Wie ich merke ♪</p>
+<p begin="890472916t" end="914246666t" region="top" style="normal" xml:id="subtitle19">♪ Tag für Tag<br/>Wächst meine Stärke ♪</p>
+<p begin="915080832t" end="949698749t" region="top" style="normal" xml:id="subtitle20">♪ Yeah! Weil wir auf Sonnenschein stehen ♪</p>
+<p begin="950532916t" end="982648332t" region="top" style="normal" xml:id="subtitle21">♪ Haben wir Spaß hier<br/>Und keiner muss alleine sein ♪</p>
+<p begin="983482499t" end="1011009999t" region="top" style="normal" xml:id="subtitle22">♪ Yeah! Es gibt so viel zu sehen ♪</p>
+<p begin="1011844166t" end="1045210832t" region="top" style="normal" xml:id="subtitle23">♪ Freunde für immer<br/>Wir wollen die Nummer eins sein ♪</p>
+<p begin="1046044999t" end="1069818749t" style="normal" xml:id="subtitle24">♪ Alola ist wunderschön<br/>Pokémon! ♪</p>
+<p begin="1121954166t" end="1151567082t" style="normal" xml:id="subtitle25">[Ash]<br/>ALOLA, NEUE ABENTEUER.</p>
+<p begin="1189938750t" end="1212044166t" style="normal" xml:id="subtitle26">Der berühmte Pokémon-Jetski.</p>
+<p begin="1212878332t" end="1249581666t" style="normal" xml:id="subtitle27">-Wie war's?<br/>-Echt klasse. Es machte super Spaß.</p>
+<p begin="1250415832t" end="1277109166t" style="normal" xml:id="subtitle28">Das freut mich. Komm gerne wieder.</p>
+<p begin="1277943332t" end="1310892916t" style="normal" xml:id="subtitle29">Ja, gern. Danke, Tohaido.</p>
+<p begin="1311727082t" end="1343008332t" style="normal" xml:id="subtitle30">-Pika, pika!<br/>-Tohaido.</p>
+<p begin="1343842500t" end="1400565832t" style="normal" xml:id="subtitle31">Kokowei.</p>
+<p begin="1433932500t" end="1460625832t" style="normal" xml:id="subtitle32">[schnüffelt]</p>
+<p begin="1471470000t" end="1491072916t" style="normal" xml:id="subtitle33">[schnurrt]</p>
+<p begin="1491907082t" end="1520685832t" style="normal" xml:id="subtitle34">[gähnt]</p>
+<p begin="1560308750t" end="1585750832t" style="normal" xml:id="subtitle35">-Mich schlägst du nicht.<br/>-Pikachu.</p>
+<p begin="1594092500t" end="1629127500t" style="normal" xml:id="subtitle36">-Pika! Pika!<br/>-[keucht]</p>
+<p begin="1629961666t" end="1652484166t" style="normal" xml:id="subtitle37">[stöhnt]</p>
+<p begin="1653318332t" end="1670001666t" style="normal" xml:id="subtitle38">[keucht] Tschuldige.</p>
+<p begin="1685850832t" end="1712127082t" style="normal" xml:id="subtitle39">-[brüllt]<br/>-Oh, Mann.</p>
+<p begin="1712961249t" end="1757172082t" style="normal" xml:id="subtitle40">Pika. Pika?</p>
+<p begin="1784282499t" end="1810558749t" style="normal" xml:id="subtitle41">Blaues Wasser. Schäfchenwolken.</p>
+<p begin="1815980832t" end="1849764582t" style="normal" xml:id="subtitle42">Und köstlicher Sananasaft.</p>
+<p begin="1871035832t" end="1907739166t" style="normal" xml:id="subtitle43">[seufzt] Wie herrlich erfrischend.</p>
+<p begin="1908573332t" end="1927342082t" style="normal" xml:id="subtitle44">Pantimos. Mos.</p>
+<p begin="1928176249t" end="1949030416t" style="normal" xml:id="subtitle45">Hey, Mama. Bin wieder da.</p>
+<p begin="1949864582t" end="1975723749t" style="normal" xml:id="subtitle46">-Hattet ihr Spaß?<br/>-Klar doch.</p>
+<p begin="1976557916t" end="1996994999t" style="normal" xml:id="subtitle47">Wir waren tauchen.</p>
+<p begin="1997829166t" end="2032864166t" style="normal" xml:id="subtitle48">Ich hab ganz viele neue Pokémon gesehen.</p>
+<p begin="2033698332t" end="2049547499t" style="normal" xml:id="subtitle49">-Ja!<br/>-Pika! Pika!</p>
+<p begin="2050381666t" end="2066647916t" style="normal" xml:id="subtitle50">Das klingt lustig!</p>
+<p begin="2074572499t" end="2115029582t" style="normal" xml:id="subtitle51">Wir müssen Pantimi<br/>für diese tolle Reise danken.</p>
+<p begin="2115863749t" end="2150064582t" style="normal" xml:id="subtitle52">-Vielen Dank, Pantimi.<br/>-Pantimos. Mos.</p>
+<p begin="2165496666t" end="2186350832t" style="normal" xml:id="subtitle53">-[jubeln]<br/>-[Delia] Hier.</p>
+<p begin="2187185000t" end="2198029166t" style="normal" xml:id="subtitle54">Kein Problem.</p>
+<p begin="2241822916t" end="2250998750t" style="normal" xml:id="subtitle55">[jubeln]</p>
+<p begin="2263928332t" end="2284365416t" style="normal" xml:id="subtitle56">Sollen wir losgehen?</p>
+<p begin="2285199582t" end="2327325000t" style="normal" xml:id="subtitle57">-Wohin denn, Mama?<br/>-Zum Cousin von Professor Eich.</p>
+<p begin="2328159166t" end="2339420416t" style="normal" xml:id="subtitle58">Ich vergaß.</p>
+<p begin="2381962916t" end="2404068332t" style="normal" xml:id="subtitle59">Gut. So müsste es klappen.</p>
+<p begin="2404902500t" end="2447027916t" style="normal" xml:id="subtitle60">Ich war schon besorgt,<br/>wie ich es zu meinem Cousin in</p>
+<p begin="2447862082t" end="2479143332t" style="normal" xml:id="subtitle61">-die Alola-Region bringe.<br/>-Ein Riesenei.</p>
+<p begin="2479977500t" end="2494992500t" style="normal" xml:id="subtitle62">Welches ist es?</p>
+<p begin="2495826666t" end="2525022500t" style="normal" xml:id="subtitle63">Da musst du warten,<br/>bis es schlüpft.</p>
+<p begin="2525856666t" end="2545459582t" style="normal" xml:id="subtitle64">Wir machen das gerne.</p>
+<p begin="2579243332t" end="2600931666t" style="normal" xml:id="subtitle65">-[Ash lacht]<br/>-Panti.</p>
+<p begin="2601765832t" end="2624288332t" style="normal" xml:id="subtitle66">Ein Pokémon-Taxi.</p>
+<p begin="2625122500t" end="2650981666t" style="normal" xml:id="subtitle67">Das ist genialer als genial.</p>
+<p begin="2651815832t" end="2664745416t" style="normal" xml:id="subtitle68">[Tauros muht]</p>
+<p begin="2665579582t" end="2697277916t" style="normal" xml:id="subtitle69">Wir setzen hier die Kraft<br/>der Pokémon ein,</p>
+<p begin="2698112082t" end="2718132082t" style="normal" xml:id="subtitle70">um von A nach B zu kommen.</p>
+<p begin="2718966250t" end="2748996250t" style="normal" xml:id="subtitle71">Diese Pokémon nennen wir<br/>das Pokémobil.</p>
+<p begin="2749830416t" end="2779860416t" style="normal" xml:id="subtitle72">An Land nimmt man ein Landpokémobil,</p>
+<p begin="2780694582t" end="2819900416t" style="normal" xml:id="subtitle73">in der Luft ein Luftmobil,<br/>im Wasser ein Wassermobil.</p>
+<p begin="2820734582t" end="2854101250t" style="normal" xml:id="subtitle74">Das Tohaido war<br/>ein Wassermobil-Pokémon.</p>
+<p begin="2854935416t" end="2889970416t" style="normal" xml:id="subtitle75">Du hast hier wohl schon<br/>einiges ausprobiert.</p>
+<p begin="2890804582t" end="2916663750t" style="normal" xml:id="subtitle76">Wo bringen wir denn das Ei hin?</p>
+<p begin="2917497916t" end="2942940000t" style="normal" xml:id="subtitle77">Zur sogenannten Pokémon-Schule.</p>
+<p begin="2943774166t" end="2972970000t" style="normal" xml:id="subtitle78">-Pokémon-Schule?<br/>-Interessant, nicht?</p>
+<p begin="2973804166t" end="2992572916t" style="normal" xml:id="subtitle79">-Panti.<br/>-Ja.</p>
+<p begin="2993407082t" end="3010924582t" style="normal" xml:id="subtitle80">Pantimos. Mos.</p>
+<p begin="3015929582t" end="3040120416t" style="normal" xml:id="subtitle81">Seht nur die köstlichen Beeren.</p>
+<p begin="3040954582t" end="3062225832t" style="normal" xml:id="subtitle82">Vielleicht kauf ich welche.</p>
+<p begin="3063060000t" end="3101014582t" style="normal" xml:id="subtitle83">Die Beeren da sind immer frisch<br/>und sehr köstlich.</p>
+<p begin="3101848750t" end="3117697916t" style="normal" xml:id="subtitle84">Großartig.</p>
+<p begin="3131878750t" end="3166496666t" style="normal" xml:id="subtitle85">Da fällt einem die Entscheidung schwer.</p>
+<p begin="3167330832t" end="3197360832t" style="normal" xml:id="subtitle86">-[Ash kichert]<br/>-Pika.</p>
+<p begin="3214044166t" end="3245742500t" style="normal" xml:id="subtitle87">-Mabula!<br/>-Pika!</p>
+<p begin="3250747500t" end="3272018750t" style="normal" xml:id="subtitle88">Das ist ein Pokémon. Cool!</p>
+<p begin="3272852916t" end="3293290000t" style="normal" xml:id="subtitle89">Wie es wohl heißt?</p>
+<p begin="3294124166t" end="3342505832t" style="normal" xml:id="subtitle90">[stöhnt]</p>
+<p begin="3370867499t" end="3403817082t" style="normal" xml:id="subtitle91">-Los, Pikachu, das fangen wir uns.<br/>-Pika!</p>
+<p begin="3404651249t" end="3428842082t" style="normal" xml:id="subtitle92">[Ash keucht]</p>
+<p begin="3429676249t" end="3455118332t" style="normal" xml:id="subtitle93">[riecht]</p>
+<p begin="3455952499t" end="3481811666t" style="normal" xml:id="subtitle94">Ash, sieh mal.</p>
+<p begin="3482645832t" end="3505585416t" style="normal" xml:id="subtitle95">[Pokémon] Pantimos?</p>
+<p begin="3531861666t" end="3546876666t" style="normal" xml:id="subtitle96">[keucht]</p>
+<p begin="3547710832t" end="3560640416t" style="normal" xml:id="subtitle97">Nicht so schnell!</p>
+<p begin="3561474582t" end="3589836249t" style="normal" xml:id="subtitle98">Pika!</p>
+<p begin="3664494166t" end="3685348332t" style="normal" xml:id="subtitle99">[keucht]</p>
+<p begin="3686182499t" end="3704951249t" style="normal" xml:id="subtitle100">[brummt]</p>
+<p begin="3716629582t" end="3733312916t" style="normal" xml:id="subtitle101">Wo ist es nur hin?</p>
+<p begin="3742905832t" end="3759589166t" style="normal" xml:id="subtitle102">-[Ash keucht]<br/>-Pika?</p>
+<p begin="3796292499t" end="3817146666t" style="normal" xml:id="subtitle103">Hm? Wo sind wir?</p>
+<p begin="3827990832t" end="3843422916t" style="normal" xml:id="subtitle104">-Komisch.<br/>-Pika.</p>
+<p begin="3844257082t" end="3887216666t" style="normal" xml:id="subtitle105">Es ist wohl weg. Super ärgerlich.</p>
+<p begin="3888050832t" end="3917246666t" style="normal" xml:id="subtitle106">[Ash]<br/>Wo sollten wir das Ei hinbringen?</p>
+<p begin="3933095832t" end="3957286666t" style="normal" xml:id="subtitle107">[Kosturso jammert]</p>
+<p begin="3969799166t" end="3994824166t" style="normal" xml:id="subtitle108">Das ist ein Pokémon.</p>
+<p begin="4032361666t" end="4049044999t" style="normal" xml:id="subtitle109">-Sieh mal, da!<br/>-Pika.</p>
+<p begin="4065311249t" end="4092838749t" style="normal" xml:id="subtitle110">[Kosturso fiept]<br/>[Ash lacht]</p>
+<p begin="4093672916t" end="4122868749t" style="normal" xml:id="subtitle111">Sieh mal, es winkt uns.</p>
+<p begin="4129959166t" end="4146642499t" style="normal" xml:id="subtitle112">Du bist ja echt süß.</p>
+<p begin="4147476666t" end="4171250416t" style="normal" xml:id="subtitle113">[fiept]</p>
+<p begin="4183762916t" end="4205451249t" style="normal" xml:id="subtitle114">-[Ash stöhnt]<br/>-Pika.</p>
+<p begin="4213792916t" end="4226722499t" style="normal" xml:id="subtitle115">[schreit]</p>
+<p begin="4240486249t" end="4256335416t" style="normal" xml:id="subtitle116">-Oh, oh.<br/>-Pika.</p>
+<p begin="4257169582t" end="4270099166t" style="normal" xml:id="subtitle117">[stampft]</p>
+<p begin="4270933332t" end="4309722082t" style="normal" xml:id="subtitle118">[schreit]</p>
+<p begin="4310556250t" end="4341003332t" style="normal" xml:id="subtitle119">[schreit und keucht]</p>
+<p begin="4341837500t" end="4361440416t" style="normal" xml:id="subtitle120">[schreit]</p>
+<p begin="4362274582t" end="4386465416t" style="normal" xml:id="subtitle121">[keucht]</p>
+<p begin="4387299582t" end="4411490416t" style="normal" xml:id="subtitle122">[schreit]</p>
+<p begin="4461957500t" end="4479892082t" style="normal" xml:id="subtitle123">[fiept]</p>
+<p begin="4486148332t" end="4516595416t" style="normal" xml:id="subtitle124">[keucht]</p>
+<p begin="4517429582t" end="4532444582t" style="normal" xml:id="subtitle125">Was war denn das?</p>
+<p begin="4546625416t" end="4559137916t" style="normal" xml:id="subtitle126">-[seufzt]<br/>-Pika.</p>
+<p begin="4559972082t" end="4590002082t" style="normal" xml:id="subtitle127">Was ist das?</p>
+<p begin="4590836250t" end="4616278332t" style="normal" xml:id="subtitle128">Ein Glurak? Ein Luftpokémobil.</p>
+<p begin="4617112500t" end="4658403750t" style="normal" xml:id="subtitle129">Pikachu, dem folgen wir, okay?</p>
+<p begin="4659237916t" end="4677589582t" style="normal" xml:id="subtitle130">Pika!</p>
+<p begin="4678423750t" end="4707619582t" style="normal" xml:id="subtitle131">[Ash keucht]</p>
+<p begin="4732227500t" end="4779775000t" style="normal" xml:id="subtitle132">[Kinderstimmen]</p>
+<p begin="4780609166t" end="4804800000t" style="normal" xml:id="subtitle133">[Kinderstimmen]</p>
+<p begin="4805634166t" end="4827739582t" style="normal" xml:id="subtitle134">-[staunt]<br/>-Pika.</p>
+<p begin="4858603750t" end="4877372500t" style="normal" xml:id="subtitle135">[Ash lacht]</p>
+<p begin="4878206666t" end="4899895000t" style="normal" xml:id="subtitle136">Sind das viele Pokémon.</p>
+<p begin="4900729166t" end="4927005416t" style="normal" xml:id="subtitle137">-Oh nein, Vorsicht!<br/>-Hm?</p>
+<p begin="4927839582t" end="4948276666t" style="normal" xml:id="subtitle138">[Tauros grunzen]</p>
+<p begin="4949110832t" end="4969547916t" style="normal" xml:id="subtitle139">[Ash schreit]</p>
+<p begin="4970382082t" end="4999577916t" style="normal" xml:id="subtitle140">Stopp! Hast du keine Augen im Kopf?</p>
+<p begin="5000412082t" end="5024185832t" style="normal" xml:id="subtitle141">[stöhnt]</p>
+<p begin="5025020000t" end="5071733332t" style="normal" xml:id="subtitle142">-Hast du dich verletzt?<br/>-Nein, alles okay.</p>
+<p begin="5072567500t" end="5099677916t" style="normal" xml:id="subtitle143">Ich verstehe mich gut mit Tauros.</p>
+<p begin="5100512082t" end="5120115000t" style="normal" xml:id="subtitle144">Ich fing schon welche.</p>
+<p begin="5120949166t" end="5144722916t" style="normal" xml:id="subtitle145">[kreischt]</p>
+<p begin="5145557082t" end="5172250416t" style="normal" xml:id="subtitle146">-Pika?<br/>-[schreit]</p>
+<p begin="5173084582t" end="5203531666t" style="normal" xml:id="subtitle147">Hast du etwa Angst vor Pokémon?</p>
+<p begin="5204365832t" end="5237315416t" style="normal" xml:id="subtitle148">Nein, ich liebe Pokémon.</p>
+<p begin="5242737500t" end="5263591666t" style="normal" xml:id="subtitle149">Ich habe nur keine Lust.</p>
+<p begin="5264425832t" end="5281109166t" style="normal" xml:id="subtitle150">Tut mir sehr leid.</p>
+<p begin="5281943332t" end="5321149166t" style="normal" xml:id="subtitle151">Du kamst schnell,<br/>ich konnte nicht mehr stoppen.</p>
+<p begin="5321983332t" end="5347425416t" style="normal" xml:id="subtitle152">Lilly kann keine Pokémon berühren.</p>
+<p begin="5348259582t" end="5371616250t" style="normal" xml:id="subtitle153">Doch. Theoretisch.</p>
+<p begin="5372450416t" end="5397475416t" style="normal" xml:id="subtitle154">Wenn ich will. Tu ich aber nicht.</p>
+<p begin="5398309582t" end="5412073332t" style="normal" xml:id="subtitle155">Kein Problem.</p>
+<p begin="5412907500t" end="5449193750t" style="normal" xml:id="subtitle156">Sei nicht frustriert.<br/>Irgendwann klappt es.</p>
+<p begin="5453364582t" end="5479223750t" style="normal" xml:id="subtitle157">-Ja, richtig.<br/>-[Ash keucht]</p>
+<p begin="5480057916t" end="5508002500t" style="normal" xml:id="subtitle158">-[Ash] Dich sah ich beim Angeln.<br/>-Ja.</p>
+<p begin="5516344166t" end="5545122916t" style="normal" xml:id="subtitle159">-Kennst du den Jungen?<br/>-Ich bin Ash.</p>
+<p begin="5545957082t" end="5572233332t" style="normal" xml:id="subtitle160">Ich komme aus Alabastia in Kanto.</p>
+<p begin="5573067500t" end="5610605000t" style="normal" xml:id="subtitle161">Das ist mein guter Kumpel Pikachu.<br/>Hallo zusammen.</p>
+<p begin="5611439166t" end="5626871250t" style="normal" xml:id="subtitle162">Pika, pika!</p>
+<p begin="5627705416t" end="5652730416t" style="normal" xml:id="subtitle163">Was ist das hier?</p>
+<p begin="5659820832t" end="5679423750t" style="normal" xml:id="subtitle164">[Maho]<br/>Die Pokémon-Schule.</p>
+<p begin="5680257916t" end="5699860832t" style="normal" xml:id="subtitle165">Davon habe ich gehört.</p>
+<p begin="5706534166t" end="5724885832t" style="normal" xml:id="subtitle166">Das ist sie.</p>
+<p begin="5725720000t" end="5759503750t" style="normal" xml:id="subtitle167">-Du scheinst dich verlaufen zu haben.<br/>-Ja.</p>
+<p begin="5767428332t" end="5787031250t" style="normal" xml:id="subtitle168">-Ich führe dich rum.<br/>-Ja.</p>
+<p begin="5787865416t" end="5802880416t" style="normal" xml:id="subtitle169">Frubberl!</p>
+<p begin="5817895416t" end="5842503332t" style="normal" xml:id="subtitle170">-Pika.<br/>-[Maho] Da geht es lang.</p>
+<p begin="5843337500t" end="5867111250t" style="normal" xml:id="subtitle171">Zieh nicht so.</p>
+<p begin="5896307082t" end="5917578332t" region="top" style="normal" xml:id="subtitle172">[Ash]<br/>Welches Pokémon ist das?</p>
+<p begin="5964708750t" end="5990985000t" region="top" style="normal" xml:id="subtitle173">-[Ash] Das ist Mabula!</p>
+<p begin="6043537500t" end="6055632916t" style="normal" xml:id="subtitle174">Unglaublich.</p>
+<p begin="6069396666t" end="6093170416t" style="normal" xml:id="subtitle175">Was ist das? Das ist echt cool.</p>
+<p begin="6094004582t" end="6110687916t" style="normal" xml:id="subtitle176">Der Hammer! [lacht]</p>
+<p begin="6111522082t" end="6125702916t" style="normal" xml:id="subtitle177">[keucht]</p>
+<p begin="6174084582t" end="6197441250t" style="normal" xml:id="subtitle178">Genial. Wo bin ich noch mal?</p>
+<p begin="6198275416t" end="6211205000t" style="normal" xml:id="subtitle179">Pika!</p>
+<p begin="6212039166t" end="6228722500t" style="normal" xml:id="subtitle180">Die Pokémon-Schule.</p>
+<p begin="6237898332t" end="6274184582t" style="normal" xml:id="subtitle181">Hier studieren Pokémon<br/>und Studenten zusammen.</p>
+<p begin="6317978332t" end="6343003332t" style="normal" xml:id="subtitle182">Direktor! Ich bringe einen Neuen.</p>
+<p begin="6343837500t" end="6373033332t" style="normal" xml:id="subtitle183">Einen neuen Studenten? Nein!</p>
+<p begin="6379706666t" end="6405565832t" style="normal" xml:id="subtitle184">Ich hab schon auf dich gewartet.</p>
+<p begin="6406400000t" end="6434761666t" style="normal" xml:id="subtitle185">-Mama?<br/>-Schön, dass du da bist.</p>
+<p begin="6435595832t" end="6453947500t" style="normal" xml:id="subtitle186">Alola, Ash!</p>
+<p begin="6461455000t" end="6491067916t" style="normal" xml:id="subtitle187">Willkommen in der Pokémon-Schule.</p>
+<p begin="6491902082t" end="6511087916t" style="normal" xml:id="subtitle188">Sie sind der Cousin.</p>
+<p begin="6511922082t" end="6525685832t" style="normal" xml:id="subtitle189">[lacht]</p>
+<p begin="6526520000t" end="6566142916t" style="normal" xml:id="subtitle190">Viele sagen, dass wir uns ähnlich sehen.</p>
+<p begin="6566977082t" end="6604931666t" style="normal" xml:id="subtitle191">-Ich bin Heinrich Eich.<br/>-Er ist hier der Direktor.</p>
+<p begin="6611187916t" end="6649142500t" style="normal" xml:id="subtitle192">-Knack dich kennenzulionen.<br/>-Ich grüße Sie auch.</p>
+<p begin="6649976666t" end="6685011666t" style="normal" xml:id="subtitle193">Er macht immer Witze mit Pokémon-Namen.</p>
+<p begin="6685845832t" end="6701277916t" style="normal" xml:id="subtitle194">Spaß ist wichtig.</p>
+<p begin="6702112082t" end="6746322916t" style="normal" xml:id="subtitle195">Jeder braucht was zu lachen.</p>
+<p begin="6747157082t" end="6786779999t" style="normal" xml:id="subtitle196">[stöhnt]</p>
+<p begin="6798041249t" end="6835995832t" style="normal" xml:id="subtitle197">Wir rannten Glurak hinterher<br/>und landeten hier.</p>
+<p begin="6836829999t" end="6874367499t" style="normal" xml:id="subtitle198">Du bist also eigentlich<br/>gar kein neuer Student.</p>
+<p begin="6875201666t" end="6899809582t" style="normal" xml:id="subtitle199">Ich wollte es dir noch sagen.</p>
+<p begin="6900643749t" end="6915658749t" style="normal" xml:id="subtitle200">War mein Fehler.</p>
+<p begin="6916492916t" end="6943603332t" style="normal" xml:id="subtitle201">Ich verstehe manchmal was falsch.</p>
+<p begin="6953196249t" end="6975301666t" style="normal" xml:id="subtitle202">[Heinrich]<br/>Samuel, ich bin es.</p>
+<p begin="6976135832t" end="7022849166t" style="normal" xml:id="subtitle203">-Das Ei kam wohlbehalten hier an.<br/>-[Professor Eich] Sehr gut.</p>
+<p begin="7023683332t" end="7059969582t" style="normal" xml:id="subtitle204">Das höre ich gerne. Ich danke dir, Delia.</p>
+<p begin="7067059999t" end="7085828749t" style="normal" xml:id="subtitle205">Gern geschehen.</p>
+<p begin="7086662916t" end="7132959166t" style="normal" xml:id="subtitle206">Herr Direktor, eine Frage.<br/>Darf ich Ash die Schule zeigen?</p>
+<p begin="7133793332t" end="7161737916t" style="normal" xml:id="subtitle207">-Natürlich. Porygondelt los.<br/>-Bereit?</p>
+<p begin="7162572082t" end="7172164999t" style="normal" xml:id="subtitle208">Ja!</p>
+<p begin="7188014166t" end="7208868332t" style="normal" xml:id="subtitle209">-Unser Klassenzimmer.<br/>-Wow.</p>
+<p begin="7209702499t" end="7228054166t" style="normal" xml:id="subtitle210">Pika!</p>
+<p begin="7254747499t" end="7304797499t" style="normal" xml:id="subtitle211">-[lacht] Ist ja echt toll.<br/>-Pika!</p>
+<p begin="7305631666t" end="7326902916t" style="normal" xml:id="subtitle212">[Pikachu] Pikachu!</p>
+<p begin="7327737082t" end="7338581249t" style="normal" xml:id="subtitle213">Moment.</p>
+<p begin="7339415416t" end="7376118749t" style="normal" xml:id="subtitle214">[Maho] Es gibt eine Tauros-Weide<br/>und einen See.</p>
+<p begin="7376952916t" end="7413239166t" style="normal" xml:id="subtitle215">Das Areal ist groß.<br/>Wir lernen tolle Dinge.</p>
+<p begin="7424500416t" end="7452444999t" style="normal" xml:id="subtitle216">Ein super Alola wünsche ich euch!</p>
+<p begin="7453279166t" end="7480806666t" style="normal" xml:id="subtitle217">-Professor Kukui!<br/>-Professor?</p>
+<p begin="7481640832t" end="7521263749t" style="normal" xml:id="subtitle218">Er ist unser Lehrer.<br/>Darf ich Ihnen Ash vorstellen?</p>
+<p begin="7522097916t" end="7562972082t" style="normal" xml:id="subtitle219">Direktor Eich hat mir schon alles erzählt.<br/>Hallo, Ash.</p>
+<p begin="7563806249t" end="7587162916t" style="normal" xml:id="subtitle220">Die Schule ist ein toller Ort.</p>
+<p begin="7587997082t" end="7610936666t" style="normal" xml:id="subtitle221">Ich hoffe, es gefällt euch hier.</p>
+<p begin="7611770832t" end="7628871249t" style="normal" xml:id="subtitle222">-Vielen Dank.<br/>-Pika.</p>
+<p begin="7629705416t" end="7649725416t" style="normal" xml:id="subtitle223">-[Glurak brüllt]<br/>-[Ash] Hm?</p>
+<p begin="7665991666t" end="7677252916t" style="normal" xml:id="subtitle224">Was ist los?</p>
+<p begin="7710202499t" end="7746905832t" style="normal" xml:id="subtitle225">Uns so aufzuhalten ist echt nicht so klug.</p>
+<p begin="7747739999t" end="7765257499t" style="normal" xml:id="subtitle226">Das sehe ich auch so.</p>
+<p begin="7766091666t" end="7796121666t" style="normal" xml:id="subtitle227">Team Skull wird ungerne gestoppt.</p>
+<p begin="7796955832t" end="7818227082t" style="normal" xml:id="subtitle228">[Team Skull]<br/>Du sagst es.</p>
+<p begin="7819061249t" end="7836161666t" style="normal" xml:id="subtitle229">Ich blockierte nichts.</p>
+<p begin="7836995832t" end="7867442916t" style="normal" xml:id="subtitle230">Ihr seid die Einzigen, die im Weg sind.</p>
+<p begin="7868277082t" end="7894970416t" style="normal" xml:id="subtitle231">Dieses Großmaul spinnt wohl.</p>
+<p begin="7895804582t" end="7921246666t" style="normal" xml:id="subtitle232">[Team Skull]<br/>Sag das nie wieder.</p>
+<p begin="7922080832t" end="7955030416t" style="normal" xml:id="subtitle233">-Wer sind die?<br/>-Mitglieder von Team Skull.</p>
+<p begin="7955864582t" end="7995070416t" style="normal" xml:id="subtitle234">Die schikanieren uns ständig<br/>und suchen Streit.</p>
+<p begin="7995904582t" end="8044286249t" style="normal" xml:id="subtitle235">Wenn ihr uns in einem Pokémon-Kampf<br/>besiegt, dürft ihr gehen.</p>
+<p begin="8045120416t" end="8062637916t" style="normal" xml:id="subtitle236">Aber wenn wir siegen,</p>
+<p begin="8063472082t" end="8095587499t" style="normal" xml:id="subtitle237">dann gehört dieses Glurak da uns.</p>
+<p begin="8096421666t" end="8116858749t" style="normal" xml:id="subtitle238">Das wird euch noch leidtun.</p>
+<p begin="8117692916t" end="8133124999t" style="normal" xml:id="subtitle239">Das werden wir sehen.</p>
+<p begin="8139381249t" end="8156481666t" style="normal" xml:id="subtitle240">Los, Molunk!</p>
+<p begin="8157315832t" end="8183174999t" style="normal" xml:id="subtitle241">-Mangunior!<br/>-Zubat!</p>
+<p begin="8184009166t" end="8201109582t" style="normal" xml:id="subtitle242">[kreischen]</p>
+<p begin="8201943749t" end="8229888332t" style="normal" xml:id="subtitle243">Sag deinem Glurak, dass wir kämpfen.</p>
+<p begin="8238647082t" end="8252410832t" style="normal" xml:id="subtitle244">[seufzt]</p>
+<p begin="8253244999t" end="8282440832t" style="normal" xml:id="subtitle245">[knurren]</p>
+<p begin="8283274999t" end="8299958332t" style="normal" xml:id="subtitle246">[Ash]<br/>Hört auf!</p>
+<p begin="8330822499t" end="8341249582t" style="normal" xml:id="subtitle247">Lass das, Ash!</p>
+<p begin="8342083749t" end="8375033332t" style="normal" xml:id="subtitle248">-Wer glaubst du, bist du?<br/>-Ihr Feiglinge!</p>
+<p begin="8375867499t" end="8415490416t" style="normal" xml:id="subtitle249">-Ihr tretet zu dritt gegen einen an.<br/>-Und?</p>
+<p begin="8416324582t" end="8440515416t" style="normal" xml:id="subtitle250">Ich werde auch kämpfen. Bereit?</p>
+<p begin="8449691249t" end="8486811666t" style="normal" xml:id="subtitle251">-Du auch?<br/>-Kiawe. Aber ich brauche keine Hilfe.</p>
+<p begin="8487645832t" end="8506831666t" style="normal" xml:id="subtitle252">Die Typen sind gefährlich.</p>
+<p begin="8507665832t" end="8526017499t" style="normal" xml:id="subtitle253">Pikachu! Bereit?</p>
+<p begin="8543952082t" end="8566891666t" style="normal" xml:id="subtitle254">-Du bist dran!<br/>-Pika!</p>
+<p begin="8567725832t" end="8580655416t" style="normal" xml:id="subtitle255">Sieh an.</p>
+<p begin="8581489582t" end="8599424166t" style="normal" xml:id="subtitle256">Verletz dich nicht.</p>
+<p begin="8619861250t" end="8644469166t" style="normal" xml:id="subtitle257">Leg los, Tortunator!</p>
+<p begin="8702026666t" end="8725383332t" style="normal" xml:id="subtitle258">Tortunator!</p>
+<p begin="8726217500t" end="8763337916t" style="normal" xml:id="subtitle259">Ist ja der Hammer!<br/>Das ist also ein Tortunator?</p>
+<p begin="8764172082t" end="8812970832t" style="normal" xml:id="subtitle260">Ein Feuer- und Drachen-Pokémon.<br/>Ein starker und treuer Freund.</p>
+<p begin="8813805000t" end="8852176666t" style="normal" xml:id="subtitle261">Molunk, zeig denen, was ihr draufhabt.<br/>Giftschock!</p>
+<p begin="8853010832t" end="8877618750t" style="normal" xml:id="subtitle262">-Mangunior, Biss!<br/>-Blutsauger!</p>
+<p begin="8878452916t" end="8898472916t" style="normal" xml:id="subtitle263">Los, Ruckzuckhieb, Pikachu!</p>
+<p begin="8899307082t" end="8918075832t" style="normal" xml:id="subtitle264">Pika!</p>
+<p begin="8918910000t" end="8939347082t" style="normal" xml:id="subtitle265">[zischen]</p>
+<p begin="8940181250t" end="8973130832t" style="normal" xml:id="subtitle266">Pi, pi, pi, pika!</p>
+<p begin="8973965000t" end="8985226250t" style="normal" xml:id="subtitle267">[stöhnen]</p>
+<p begin="8986060416t" end="9009834166t" style="normal" xml:id="subtitle268">-Das war schnell.<br/>-[brüllt]</p>
+<p begin="9010668332t" end="9036944582t" style="normal" xml:id="subtitle269">[knurren]</p>
+<p begin="9079904166t" end="9089080000t" style="normal" xml:id="subtitle270">Was war das?</p>
+<p begin="9089914166t" end="9139964166t" style="normal" xml:id="subtitle271">Bei Berührung lösen seine Stacheln<br/>Explosionen aus.</p>
+<p begin="9140798332t" end="9163320832t" style="normal" xml:id="subtitle272">Schnell, Molunk, Funkenflug!</p>
+<p begin="9195436250t" end="9223380832t" style="normal" xml:id="subtitle273">Pikachu, weich aus! Donnerblitz!</p>
+<p begin="9224215000t" end="9270094166t" style="normal" xml:id="subtitle274">Pika! Pikachu!</p>
+<p begin="9312219582t" end="9339747082t" style="normal" xml:id="subtitle275">-[jubeln]<br/>-Super gemacht.</p>
+<p begin="9386460416t" end="9409817082t" style="normal" xml:id="subtitle276">-Pika!<br/>-[kichert]</p>
+<p begin="9415656250t" end="9432756666t" style="normal" xml:id="subtitle277">Ich bringe es zu Ende.</p>
+<p begin="9433590832t" end="9471962500t" style="normal" xml:id="subtitle278">Es ist so weit, Tortunator, los geht's.</p>
+<p begin="9486143332t" end="9510751250t" style="normal" xml:id="subtitle279">-Nator!<br/>-[schreit]</p>
+<p begin="9511585416t" end="9534942082t" style="normal" xml:id="subtitle280">-Oh, nein!<br/>-Oh, oh.</p>
+<p begin="9535776250t" end="9547037500t" style="normal" xml:id="subtitle281">Wird es das?</p>
+<p begin="9555379166t" end="9589580000t" style="normal" xml:id="subtitle282">Der Zenit meines Körpers und Geistes.</p>
+<p begin="9590414166t" end="9615439166t" style="normal" xml:id="subtitle283">Und meiner Seele.</p>
+<p begin="9616273332t" end="9633790832t" style="normal" xml:id="subtitle284">Groß wie der Akala-Berg</p>
+<p begin="9634625000t" end="9664655000t" style="normal" xml:id="subtitle285">wird zu einem rasend wütenden Feuer.</p>
+<p begin="9703026666t" end="9720961250t" style="normal" xml:id="subtitle286">Dynamische Maxiflamme!</p>
+<p begin="9735142082t" end="9770594166t" style="normal" xml:id="subtitle287">Tortunator!</p>
+<p begin="9896970416t" end="9927417500t" style="normal" xml:id="subtitle288">[stöhnen]</p>
+<p begin="9937844582t" end="9977050416t" style="normal" xml:id="subtitle289">-Das zahlen wir euch heim.<br/>-Ja, er hat recht.</p>
+<p begin="9985809166t" end="10021678332t" style="normal" xml:id="subtitle290">[Team Skull]<br/>Du hättest uns vorwarnen müssen.</p>
+<p begin="10022512500t" end="10037110416t" style="normal" xml:id="subtitle291">Ja, das war unfair.</p>
+<p begin="10051708332t" end="10085909166t" style="normal" xml:id="subtitle292">-Kiawe, was war das denn?<br/>-Pika.</p>
+<p begin="10092165416t" end="10119692916t" style="normal" xml:id="subtitle293">-Eine Z-Attacke.<br/>-Z-Attacke?</p>
+<p begin="10127200416t" end="10148054582t" style="normal" xml:id="subtitle294">-Ja.<br/>-Das ist unser Kiawe.</p>
+<p begin="10148888750t" end="10167240416t" style="normal" xml:id="subtitle295">Du warst auch toll, Ash.</p>
+<p begin="10168074582t" end="10208948750t" style="normal" xml:id="subtitle296">Z-Attacken sind spezielle Attacken<br/>aus unserer Region.</p>
+<p begin="10209782916t" end="10262335416t" style="normal" xml:id="subtitle297">Die Region besteht aus vier Inseln<br/>und jede hat ihren Schutzpatron.</p>
+<p begin="10275682082t" end="10330320000t" style="normal" xml:id="subtitle298">Nur wer an einer Zeremonie teilnimmt,<br/>kann Z-Attacken einsetzen.</p>
+<p begin="10331154166t" end="10391214166t" style="normal" xml:id="subtitle299">Cool, ein Schutzpatron,<br/>Inselwanderschaft und Z-Attacken.</p>
+<p begin="10399555832t" end="10424997916t" style="normal" xml:id="subtitle300">Ihr kämpftet auf Megahieb-Niveau.</p>
+<p begin="10440012916t" end="10474630832t" style="normal" xml:id="subtitle301">Du scheinst einen guten Kampf<br/>zu genießen.</p>
+<p begin="10475465000t" end="10525097916t" style="normal" xml:id="subtitle302">-Ich will ja auch Pokémon-Meister werden.<br/>-Verstehe.</p>
+<p begin="10525932082t" end="10534690832t" style="normal" xml:id="subtitle303">Hm?</p>
+<p begin="10561384166t" end="10592248332t" style="normal" xml:id="subtitle304">-Welches Pokémon ist das denn?<br/>-Pika?</p>
+<p begin="10599755832t" end="10615187916t" style="normal" xml:id="subtitle305">Pokémon?</p>
+<p begin="10616022082t" end="10645217916t" style="normal" xml:id="subtitle306">-Wo denn?<br/>-Ich sehe nirgendwo eins.</p>
+<p begin="10646052082t" end="10678584582t" style="normal" xml:id="subtitle307">Es war eben noch da.<br/>Es war ein Pokémon.</p>
+<p begin="10684423750t" end="10726132082t" style="normal" xml:id="subtitle308">Es war ganz gelb.<br/>Mit einem orangen Kamm auf dem Kopf.</p>
+<p begin="10731971250t" end="10759081666t" style="normal" xml:id="subtitle309">-Klingt ganz nach...<br/>-Kapu-Riki.</p>
+<p begin="10762835416t" end="10796619166t" style="normal" xml:id="subtitle310">Du sahst den Schutzpatron von Mele-Mele?</p>
+<p begin="10803292500t" end="10839995832t" style="normal" xml:id="subtitle311">Schutzpatron? Das war echt Kapu-Riki?</p>
+<p begin="10963869582t" end="10982638332t" style="normal" xml:id="subtitle312">Das ist wirklich gut.</p>
+<p begin="11067306250t" end="11099004582t" style="normal" xml:id="subtitle313">-Ist heute was Aufregendes passiert?<br/>-Hm?</p>
+<p begin="11106095000t" end="11129034582t" style="normal" xml:id="subtitle314">Du scheinst abgelenkt zu sein.</p>
+<p begin="11129868750t" end="11156562082t" style="normal" xml:id="subtitle315">Hm?<br/>[kichert]</p>
+<p begin="11157396250t" end="11168240416t" style="normal" xml:id="subtitle316">[Gackern]</p>
+<p begin="11169074582t" end="11187843332t" style="normal" xml:id="subtitle317">-Hm?<br/>-Pika?</p>
+<p begin="11225797916t" end="11249571666t" style="normal" xml:id="subtitle318">Das war es wieder.</p>
+<p begin="11259581666t" end="11284606666t" style="normal" xml:id="subtitle319">-Wo willst du denn hin?<br/>-Pikachu.</p>
+<p begin="11351757082t" end="11375530832t" style="normal" xml:id="subtitle320">[gackert]</p>
+<p begin="11376365000t" end="11395550832t" style="normal" xml:id="subtitle321">-Da ist es.<br/>-Pika.</p>
+<p begin="11417239166t" end="11486892082t" style="normal" xml:id="subtitle322">[keucht]</p>
+<p begin="11546117916t" end="11563218332t" style="normal" xml:id="subtitle323">[staunen]</p>
+<p begin="11564052500t" end="11600755832t" style="normal" xml:id="subtitle324">Da ist der Schutzpatron.<br/>Das ist Kapu-Riki.</p>
+<p begin="11632871250t" end="11654559582t" style="normal" xml:id="subtitle325">Wieso sehe nur ich dich?</p>
+<p begin="11689177500t" end="11709614582t" style="normal" xml:id="subtitle326">Willst du mir etwas sagen?</p>
+<p begin="11770925832t" end="11788860416t" style="normal" xml:id="subtitle327">-[keucht]<br/>-Pika.</p>
+<p begin="11820975832t" end="11850171666t" style="normal" xml:id="subtitle328">Das sieht genauso aus wie Kiawes.</p>
+<p begin="11856427916t" end="11893131250t" style="normal" xml:id="subtitle329">[gackert]</p>
+<p begin="11907729166t" end="11917739166t" style="normal" xml:id="subtitle330">[gackert]</p>
+<p begin="11939844582t" end="11949020416t" style="normal" xml:id="subtitle331">Hm.</p>
+<p begin="11981970000t" end="11992814166t" style="normal" xml:id="subtitle332">[keucht]</p>
+<p begin="12097085000t" end="12110848750t" style="normal" xml:id="subtitle333">[staunt]</p>
+<p begin="12132120000t" end="12162567082t" style="normal" xml:id="subtitle334">Riki.</p>
+<p begin="12163401250t" end="12198019166t" style="normal" xml:id="subtitle335">Hey! [keucht]</p>
+<p begin="12328983332t" end="12349003332t" style="normal" xml:id="subtitle336">[Ash]<br/>Das Haus ist toll.</p>
+<p begin="12349837500t" end="12364852500t" style="normal" xml:id="subtitle337">Weißt du was?</p>
+<p begin="12365686666t" end="12391545832t" style="normal" xml:id="subtitle338">Im Keller ist ein Fitnessraum.</p>
+<p begin="12392380000t" end="12407812082t" style="normal" xml:id="subtitle339">Das ist fantastisch.</p>
+<p begin="12408646250t" end="12437842082t" style="normal" xml:id="subtitle340">Schön, dass ihr eine tolle Zeit habt.</p>
+<p begin="12450771666t" end="12464118332t" style="normal" xml:id="subtitle341">Danke, Mama.</p>
+<p begin="12464952500t" end="12509163332t" style="normal" xml:id="subtitle342">Dass ich hierbleibe,<br/>verdanke ich dir.</p>
+<p begin="12509997500t" end="12541278750t" style="normal" xml:id="subtitle343">Natürlich, ich bin doch deine Mutter.</p>
+<p begin="12546700832t" end="12576730832t" style="normal" xml:id="subtitle344">Ich erwartete es schon.<br/>Und hatte recht.</p>
+<p begin="12594665416t" end="12621775832t" style="normal" xml:id="subtitle345">[schreit]<br/>Ich muss jetzt los.</p>
+<p begin="12622610000t" end="12640127500t" style="normal" xml:id="subtitle346">Die Schule fängt an.</p>
+<p begin="12648886250t" end="12680167500t" style="normal" xml:id="subtitle347">[Delia]<br/>Schöne Zeit und sei vorsichtig.</p>
+<p begin="12696016666t" end="12722292916t" style="normal" xml:id="subtitle348">-[kichert]<br/>-Pika! Pika!</p>
+<p begin="12809880416t" end="12841578750t" style="normal" xml:id="subtitle349">-Lass uns um die Wette laufen.<br/>-Pika!</p>
+<p begin="12842412916t" end="12857427916t" style="normal" xml:id="subtitle350">Hey! Warte!</p>
+<p begin="12858262082t" end="12877447916t" style="normal" xml:id="subtitle351">[Ash keucht]</p>
+<p begin="12878282082t" end="12913317082t" style="normal" xml:id="subtitle352">[Erzähler] Für die beiden<br/>beginnt eine aufregende Zeit,</p>
+<p begin="12919573332t" end="12970874582t" style="normal" xml:id="subtitle353">nachdem Ash ein Armband<br/>von dem Schutzpatron Kapu-Riki erhielt.</p>
+<p begin="12971708750t" end="12987140832t" region="top" style="normal" xml:id="subtitle354">Die Reise geht weiter.</p>
+<p begin="12987975000t" end="13048035000t" region="top" style="normal" xml:id="subtitle355">FORTSETZUNG FOLGT...</p>
+</div>
+</body>
+</tt>

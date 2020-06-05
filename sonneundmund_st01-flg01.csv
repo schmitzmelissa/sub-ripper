@@ -1,0 +1,493 @@
+﻿Number;Start time in milliseconds;End time in milliseconds;"Text"
+1;2168.8332;5422.0832;"Hey, wow. Das ist ja wirklich der Hammer."
+2;5505.4999;8466.7916;"-Nicht wahr, Pikachu?
+-Pikachu!"
+3;8550.2082;9676.3332;"[lacht]"
+4;10927.5832;14848.1666;"[Erzähler]
+Mele-Mele, eine Insel der Alola-Region."
+5;14931.5832;20562.2082;"Ash und Pikachu machen dort Ferien
+und haben jede Menge Spaß."
+6;20645.625;21688.3332;"[Ash]
+Okay."
+7;21771.7499;25442.0832;"-Jetzt gib mal Vollgas, Tohaido.
+-Tohaido."
+8;35910.875;37078.7082;"[gurgelt]"
+9;41624.9166;44377.6666;"-[keucht]
+-Pika."
+10;51176.1249;54262.5416;"[keucht]"
+11;54345.9582;58224.8332;"-[brüllt]
+-[schreit]"
+12;58308.25;60769.0416;"[Ash keucht]"
+13;63188.125;68526.7916;"-Pika.
+-[keucht]"
+14;68610.2082;70028.2916;"Bin wieder da."
+15;70111.7082;72280.5416;"[kichern]"
+16;72363.9582;74032.2916;"[beide kichern]"
+17;74115.7082;77911.1666;"[kichert]"
+18;82082;84667.9166;"{\an8}♪ An diese Sonne
+Gewöhn ich mich gern ♪"
+19;84751.3332;88963.8749;"{\an8}♪ Mir sind leider die Tage zu kurz
+Wie ich merke ♪"
+20;89047.2916;91424.6666;"{\an8}♪ Tag für Tag
+Wächst meine Stärke ♪"
+21;91508.0832;94969.8749;"{\an8}♪ Yeah! Weil wir auf Sonnenschein stehen ♪"
+22;95053.2916;98264.8332;"{\an8}♪ Haben wir Spaß hier
+Und keiner muss alleine sein ♪"
+23;98348.2499;101100.9999;"{\an8}♪ Yeah! Es gibt so viel zu sehen ♪"
+24;101184.4166;104521.0832;"{\an8}♪ Freunde für immer
+Wir wollen die Nummer eins sein ♪"
+25;104604.4999;106981.8749;"♪ Alola ist wunderschön
+Pokémon! ♪"
+26;112195.4166;115156.7082;"[Ash]
+ALOLA, NEUE ABENTEUER."
+27;118993.875;121204.4166;"Der berühmte Pokémon-Jetski."
+28;121287.8332;124958.1666;"-Wie war's?
+-Echt klasse. Es machte super Spaß."
+29;125041.5832;127710.9166;"Das freut mich. Komm gerne wieder."
+30;127794.3332;131089.2916;"Ja, gern. Danke, Tohaido."
+31;131172.7082;134300.8332;"-Pika, pika!
+-Tohaido."
+32;134384.25;140056.5832;"Kokowei."
+33;143393.25;146062.5832;"[schnüffelt]"
+34;147147;149107.2916;"[schnurrt]"
+35;149190.7082;152068.5832;"[gähnt]"
+36;156030.875;158575.0832;"-Mich schlägst du nicht.
+-Pikachu."
+37;159409.25;162912.75;"-Pika! Pika!
+-[keucht]"
+38;162996.1666;165248.4166;"[stöhnt]"
+39;165331.8332;167000.1666;"[keucht] Tschuldige."
+40;168585.0832;171212.7082;"-[brüllt]
+-Oh, Mann."
+41;171296.1249;175717.2082;"Pika. Pika?"
+42;178428.2499;181055.8749;"Blaues Wasser. Schäfchenwolken."
+43;181598.0832;184976.4582;"Und köstlicher Sananasaft."
+44;187103.5832;190773.9166;"[seufzt] Wie herrlich erfrischend."
+45;190857.3332;192734.2082;"Pantimos. Mos."
+46;192817.6249;194903.0416;"Hey, Mama. Bin wieder da."
+47;194986.4582;197572.3749;"-Hattet ihr Spaß?
+-Klar doch."
+48;197655.7916;199699.4999;"Wir waren tauchen."
+49;199782.9166;203286.4166;"Ich hab ganz viele neue Pokémon gesehen."
+50;203369.8332;204954.7499;"-Ja!
+-Pika! Pika!"
+51;205038.1666;206664.7916;"Das klingt lustig!"
+52;207457.2499;211502.9582;"Wir müssen Pantimi
+für diese tolle Reise danken."
+53;211586.3749;215006.4582;"-Vielen Dank, Pantimi.
+-Pantimos. Mos."
+54;216549.6666;218635.0832;"-[jubeln]
+-[Delia] Hier."
+55;218718.5;219802.9166;"Kein Problem."
+56;224182.2916;225099.875;"[jubeln]"
+57;226392.8332;228436.5416;"Sollen wir losgehen?"
+58;228519.9582;232732.5;"-Wohin denn, Mama?
+-Zum Cousin von Professor Eich."
+59;232815.9166;233942.0416;"Ich vergaß."
+60;238196.2916;240406.8332;"Gut. So müsste es klappen."
+61;240490.25;244702.7916;"Ich war schon besorgt,
+wie ich es zu meinem Cousin in"
+62;244786.2082;247914.3332;"-die Alola-Region bringe.
+-Ein Riesenei."
+63;247997.75;249499.25;"Welches ist es?"
+64;249582.6666;252502.25;"Da musst du warten,
+bis es schlüpft."
+65;252585.6666;254545.9582;"Wir machen das gerne."
+66;257924.3332;260093.1666;"-[Ash lacht]
+-Panti."
+67;260176.5832;262428.8332;"Ein Pokémon-Taxi."
+68;262512.25;265098.1666;"Das ist genialer als genial."
+69;265181.5832;266474.5416;"[Tauros muht]"
+70;266557.9582;269727.7916;"Wir setzen hier die Kraft
+der Pokémon ein,"
+71;269811.2082;271813.2082;"um von A nach B zu kommen."
+72;271896.625;274899.625;"Diese Pokémon nennen wir
+das Pokémobil."
+73;274983.0416;277986.0416;"An Land nimmt man ein Landpokémobil,"
+74;278069.4582;281990.0416;"in der Luft ein Luftmobil,
+im Wasser ein Wassermobil."
+75;282073.4582;285410.125;"Das Tohaido war
+ein Wassermobil-Pokémon."
+76;285493.5416;288997.0416;"Du hast hier wohl schon
+einiges ausprobiert."
+77;289080.4582;291666.375;"Wo bringen wir denn das Ei hin?"
+78;291749.7916;294294;"Zur sogenannten Pokémon-Schule."
+79;294377.4166;297297;"-Pokémon-Schule?
+-Interessant, nicht?"
+80;297380.4166;299257.2916;"-Panti.
+-Ja."
+81;299340.7082;301092.4582;"Pantimos. Mos."
+82;301592.9582;304012.0416;"Seht nur die köstlichen Beeren."
+83;304095.4582;306222.5832;"Vielleicht kauf ich welche."
+84;306306;310101.4582;"Die Beeren da sind immer frisch
+und sehr köstlich."
+85;310184.875;311769.7916;"Großartig."
+86;313187.875;316649.6666;"Da fällt einem die Entscheidung schwer."
+87;316733.0832;319736.0832;"-[Ash kichert]
+-Pika."
+88;321404.4166;324574.25;"-Mabula!
+-Pika!"
+89;325074.75;327201.875;"Das ist ein Pokémon. Cool!"
+90;327285.2916;329329;"Wie es wohl heißt?"
+91;329412.4166;334250.5832;"[stöhnt]"
+92;337086.7499;340381.7082;"-Los, Pikachu, das fangen wir uns.
+-Pika!"
+93;340465.1249;342884.2082;"[Ash keucht]"
+94;342967.6249;345511.8332;"[riecht]"
+95;345595.2499;348181.1666;"Ash, sieh mal."
+96;348264.5832;350558.5416;"[Pokémon] Pantimos?"
+97;353186.1666;354687.6666;"[keucht]"
+98;354771.0832;356064.0416;"Nicht so schnell!"
+99;356147.4582;358983.6249;"Pika!"
+100;366449.4166;368534.8332;"[keucht]"
+101;368618.2499;370495.1249;"[brummt]"
+102;371662.9582;373331.2916;"Wo ist es nur hin?"
+103;374290.5832;375958.9166;"-[Ash keucht]
+-Pika?"
+104;379629.2499;381714.6666;"Hm? Wo sind wir?"
+105;382799.0832;384342.2916;"-Komisch.
+-Pika."
+106;384425.7082;388721.6666;"Es ist wohl weg. Super ärgerlich."
+107;388805.0832;391724.6666;"[Ash]
+Wo sollten wir das Ei hinbringen?"
+108;393309.5832;395728.6666;"[Kosturso jammert]"
+109;396979.9166;399482.4166;"Das ist ein Pokémon."
+110;403236.1666;404904.4999;"-Sieh mal, da!
+-Pika."
+111;406531.1249;409283.8749;"[Kosturso fiept]
+[Ash lacht]"
+112;409367.2916;412286.8749;"Sieh mal, es winkt uns."
+113;412995.9166;414664.2499;"Du bist ja echt süß."
+114;414747.6666;417125.0416;"[fiept]"
+115;418376.2916;420545.1249;"-[Ash stöhnt]
+-Pika."
+116;421379.2916;422672.2499;"[schreit]"
+117;424048.6249;425633.5416;"-Oh, oh.
+-Pika."
+118;425716.9582;427009.9166;"[stampft]"
+119;427093.3332;430972.2082;"[schreit]"
+120;431055.625;434100.3332;"[schreit und keucht]"
+121;434183.75;436144.0416;"[schreit]"
+122;436227.4582;438646.5416;"[keucht]"
+123;438729.9582;441149.0416;"[schreit]"
+124;446195.75;447989.2082;"[fiept]"
+125;448614.8332;451659.5416;"[keucht]"
+126;451742.9582;453244.4582;"Was war denn das?"
+127;454662.5416;455913.7916;"-[seufzt]
+-Pika."
+128;455997.2082;459000.2082;"Was ist das?"
+129;459083.625;461627.8332;"Ein Glurak? Ein Luftpokémobil."
+130;461711.25;465840.375;"Pikachu, dem folgen wir, okay?"
+131;465923.7916;467758.9582;"Pika!"
+132;467842.375;470761.9582;"[Ash keucht]"
+133;473222.75;477977.5;"[Kinderstimmen]"
+134;478060.9166;480480;"[Kinderstimmen]"
+135;480563.4166;482773.9582;"-[staunt]
+-Pika."
+136;485860.375;487737.25;"[Ash lacht]"
+137;487820.6666;489989.5;"Sind das viele Pokémon."
+138;490072.9166;492700.5416;"-Oh nein, Vorsicht!
+-Hm?"
+139;492783.9582;494827.6666;"[Tauros grunzen]"
+140;494911.0832;496954.7916;"[Ash schreit]"
+141;497038.2082;499957.7916;"Stopp! Hast du keine Augen im Kopf?"
+142;500041.2082;502418.5832;"[stöhnt]"
+143;502502;507173.3332;"-Hast du dich verletzt?
+-Nein, alles okay."
+144;507256.75;509967.7916;"Ich verstehe mich gut mit Tauros."
+145;510051.2082;512011.5;"Ich fing schon welche."
+146;512094.9166;514472.2916;"[kreischt]"
+147;514555.7082;517225.0416;"-Pika?
+-[schreit]"
+148;517308.4582;520353.1666;"Hast du etwa Angst vor Pokémon?"
+149;520436.5832;523731.5416;"Nein, ich liebe Pokémon."
+150;524273.75;526359.1666;"Ich habe nur keine Lust."
+151;526442.5832;528110.9166;"Tut mir sehr leid."
+152;528194.3332;532114.9166;"Du kamst schnell,
+ich konnte nicht mehr stoppen."
+153;532198.3332;534742.5416;"Lilly kann keine Pokémon berühren."
+154;534825.9582;537161.625;"Doch. Theoretisch."
+155;537245.0416;539747.5416;"Wenn ich will. Tu ich aber nicht."
+156;539830.9582;541207.3332;"Kein Problem."
+157;541290.75;544919.375;"Sei nicht frustriert.
+Irgendwann klappt es."
+158;545336.4582;547922.375;"-Ja, richtig.
+-[Ash keucht]"
+159;548005.7916;550800.25;"-[Ash] Dich sah ich beim Angeln.
+-Ja."
+160;551634.4166;554512.2916;"-Kennst du den Jungen?
+-Ich bin Ash."
+161;554595.7082;557223.3332;"Ich komme aus Alabastia in Kanto."
+162;557306.75;561060.5;"Das ist mein guter Kumpel Pikachu.
+Hallo zusammen."
+163;561143.9166;562687.125;"Pika, pika!"
+164;562770.5416;565273.0416;"Was ist das hier?"
+165;565982.0832;567942.375;"[Maho]
+Die Pokémon-Schule."
+166;568025.7916;569986.0832;"Davon habe ich gehört."
+167;570653.4166;572488.5832;"Das ist sie."
+168;572572;575950.375;"-Du scheinst dich verlaufen zu haben.
+-Ja."
+169;576742.8332;578703.125;"-Ich führe dich rum.
+-Ja."
+170;578786.5416;580288.0416;"Frubberl!"
+171;581789.5416;584250.3332;"-Pika.
+-[Maho] Da geht es lang."
+172;584333.75;586711.125;"Zieh nicht so."
+173;589630.7082;591757.8332;"{\an8}[Ash]
+Welches Pokémon ist das?"
+174;596470.875;599098.5;"{\an8}-[Ash] Das ist Mabula!"
+175;604353.75;605563.2916;"Unglaublich."
+176;606939.6666;609317.0416;"Was ist das? Das ist echt cool."
+177;609400.4582;611068.7916;"Der Hammer! [lacht]"
+178;611152.2082;612570.2916;"[keucht]"
+179;617408.4582;619744.125;"Genial. Wo bin ich noch mal?"
+180;619827.5416;621120.5;"Pika!"
+181;621203.9166;622872.25;"Die Pokémon-Schule."
+182;623789.8332;627418.4582;"Hier studieren Pokémon
+und Studenten zusammen."
+183;631797.8332;634300.3332;"Direktor! Ich bringe einen Neuen."
+184;634383.75;637303.3332;"Einen neuen Studenten? Nein!"
+185;637970.6666;640556.5832;"Ich hab schon auf dich gewartet."
+186;640640;643476.1666;"-Mama?
+-Schön, dass du da bist."
+187;643559.5832;645394.75;"Alola, Ash!"
+188;646145.5;649106.7916;"Willkommen in der Pokémon-Schule."
+189;649190.2082;651108.7916;"Sie sind der Cousin."
+190;651192.2082;652568.5832;"[lacht]"
+191;652652;656614.2916;"Viele sagen, dass wir uns ähnlich sehen."
+192;656697.7082;660493.1666;"-Ich bin Heinrich Eich.
+-Er ist hier der Direktor."
+193;661118.7916;664914.25;"-Knack dich kennenzulionen.
+-Ich grüße Sie auch."
+194;664997.6666;668501.1666;"Er macht immer Witze mit Pokémon-Namen."
+195;668584.5832;670127.7916;"Spaß ist wichtig."
+196;670211.2082;674632.2916;"Jeder braucht was zu lachen."
+197;674715.7082;678677.9999;"[stöhnt]"
+198;679804.1249;683599.5832;"Wir rannten Glurak hinterher
+und landeten hier."
+199;683682.9999;687436.7499;"Du bist also eigentlich
+gar kein neuer Student."
+200;687520.1666;689980.9582;"Ich wollte es dir noch sagen."
+201;690064.3749;691565.8749;"War mein Fehler."
+202;691649.2916;694360.3332;"Ich verstehe manchmal was falsch."
+203;695319.6249;697530.1666;"[Heinrich]
+Samuel, ich bin es."
+204;697613.5832;702284.9166;"-Das Ei kam wohlbehalten hier an.
+-[Professor Eich] Sehr gut."
+205;702368.3332;705996.9582;"Das höre ich gerne. Ich danke dir, Delia."
+206;706705.9999;708582.8749;"Gern geschehen."
+207;708666.2916;713295.9166;"Herr Direktor, eine Frage.
+Darf ich Ash die Schule zeigen?"
+208;713379.3332;716173.7916;"-Natürlich. Porygondelt los.
+-Bereit?"
+209;716257.2082;717216.4999;"Ja!"
+210;718801.4166;720886.8332;"-Unser Klassenzimmer.
+-Wow."
+211;720970.2499;722805.4166;"Pika!"
+212;725474.7499;730479.7499;"-[lacht] Ist ja echt toll.
+-Pika!"
+213;730563.1666;732690.2916;"[Pikachu] Pikachu!"
+214;732773.7082;733858.1249;"Moment."
+215;733941.5416;737611.8749;"[Maho] Es gibt eine Tauros-Weide
+und einen See."
+216;737695.2916;741323.9166;"Das Areal ist groß.
+Wir lernen tolle Dinge."
+217;742450.0416;745244.4999;"Ein super Alola wünsche ich euch!"
+218;745327.9166;748080.6666;"-Professor Kukui!
+-Professor?"
+219;748164.0832;752126.3749;"Er ist unser Lehrer.
+Darf ich Ihnen Ash vorstellen?"
+220;752209.7916;756297.2082;"Direktor Eich hat mir schon alles erzählt.
+Hallo, Ash."
+221;756380.6249;758716.2916;"Die Schule ist ein toller Ort."
+222;758799.7082;761093.6666;"Ich hoffe, es gefällt euch hier."
+223;761177.0832;762887.1249;"-Vielen Dank.
+-Pika."
+224;762970.5416;764972.5416;"-[Glurak brüllt]
+-[Ash] Hm?"
+225;766599.1666;767725.2916;"Was ist los?"
+226;771020.2499;774690.5832;"Uns so aufzuhalten ist echt nicht so klug."
+227;774773.9999;776525.7499;"Das sehe ich auch so."
+228;776609.1666;779612.1666;"Team Skull wird ungerne gestoppt."
+229;779695.5832;781822.7082;"[Team Skull]
+Du sagst es."
+230;781906.1249;783616.1666;"Ich blockierte nichts."
+231;783699.5832;786744.2916;"Ihr seid die Einzigen, die im Weg sind."
+232;786827.7082;789497.0416;"Dieses Großmaul spinnt wohl."
+233;789580.4582;792124.6666;"[Team Skull]
+Sag das nie wieder."
+234;792208.0832;795503.0416;"-Wer sind die?
+-Mitglieder von Team Skull."
+235;795586.4582;799507.0416;"Die schikanieren uns ständig
+und suchen Streit."
+236;799590.4582;804428.6249;"Wenn ihr uns in einem Pokémon-Kampf
+besiegt, dürft ihr gehen."
+237;804512.0416;806263.7916;"Aber wenn wir siegen,"
+238;806347.2082;809558.7499;"dann gehört dieses Glurak da uns."
+239;809642.1666;811685.8749;"Das wird euch noch leidtun."
+240;811769.2916;813312.4999;"Das werden wir sehen."
+241;813938.1249;815648.1666;"Los, Molunk!"
+242;815731.5832;818317.4999;"-Mangunior!
+-Zubat!"
+243;818400.9166;820110.9582;"[kreischen]"
+244;820194.3749;822988.8332;"Sag deinem Glurak, dass wir kämpfen."
+245;823864.7082;825241.0832;"[seufzt]"
+246;825324.4999;828244.0832;"[knurren]"
+247;828327.4999;829995.8332;"[Ash]
+Hört auf!"
+248;833082.2499;834124.9582;"Lass das, Ash!"
+249;834208.3749;837503.3332;"-Wer glaubst du, bist du?
+-Ihr Feiglinge!"
+250;837586.7499;841549.0416;"-Ihr tretet zu dritt gegen einen an.
+-Und?"
+251;841632.4582;844051.5416;"Ich werde auch kämpfen. Bereit?"
+252;844969.1249;848681.1666;"-Du auch?
+-Kiawe. Aber ich brauche keine Hilfe."
+253;848764.5832;850683.1666;"Die Typen sind gefährlich."
+254;850766.5832;852601.7499;"Pikachu! Bereit?"
+255;854395.2082;856689.1666;"-Du bist dran!
+-Pika!"
+256;856772.5832;858065.5416;"Sieh an."
+257;858148.9582;859942.4166;"Verletz dich nicht."
+258;861986.125;864446.9166;"Leg los, Tortunator!"
+259;870202.6666;872538.3332;"Tortunator!"
+260;872621.75;876333.7916;"Ist ja der Hammer!
+Das ist also ein Tortunator?"
+261;876417.2082;881297.0832;"Ein Feuer- und Drachen-Pokémon.
+Ein starker und treuer Freund."
+262;881380.5;885217.6666;"Molunk, zeig denen, was ihr draufhabt.
+Giftschock!"
+263;885301.0832;887761.875;"-Mangunior, Biss!
+-Blutsauger!"
+264;887845.2916;889847.2916;"Los, Ruckzuckhieb, Pikachu!"
+265;889930.7082;891807.5832;"Pika!"
+266;891891;893934.7082;"[zischen]"
+267;894018.125;897313.0832;"Pi, pi, pi, pika!"
+268;897396.5;898522.625;"[stöhnen]"
+269;898606.0416;900983.4166;"-Das war schnell.
+-[brüllt]"
+270;901066.8332;903694.4582;"[knurren]"
+271;907990.4166;908908;"Was war das?"
+272;908991.4166;913996.4166;"Bei Berührung lösen seine Stacheln
+Explosionen aus."
+273;914079.8332;916332.0832;"Schnell, Molunk, Funkenflug!"
+274;919543.625;922338.0832;"Pikachu, weich aus! Donnerblitz!"
+275;922421.5;927009.4166;"Pika! Pikachu!"
+276;931221.9582;933974.7082;"-[jubeln]
+-Super gemacht."
+277;938646.0416;940981.7082;"-Pika!
+-[kichert]"
+278;941565.625;943275.6666;"Ich bringe es zu Ende."
+279;943359.0832;947196.25;"Es ist so weit, Tortunator, los geht's."
+280;948614.3332;951075.125;"-Nator!
+-[schreit]"
+281;951158.5416;953494.2082;"-Oh, nein!
+-Oh, oh."
+282;953577.625;954703.75;"Wird es das?"
+283;955537.9166;958958;"Der Zenit meines Körpers und Geistes."
+284;959041.4166;961543.9166;"Und meiner Seele."
+285;961627.3332;963379.0832;"Groß wie der Akala-Berg"
+286;963462.5;966465.5;"wird zu einem rasend wütenden Feuer."
+287;970302.6666;972096.125;"Dynamische Maxiflamme!"
+288;973514.2082;977059.4166;"Tortunator!"
+289;989697.0416;992741.75;"[stöhnen]"
+290;993784.4582;997705.0416;"-Das zahlen wir euch heim.
+-Ja, er hat recht."
+291;998580.9166;1002167.8332;"[Team Skull]
+Du hättest uns vorwarnen müssen."
+292;1002251.25;1003711.0416;"Ja, das war unfair."
+293;1005170.8332;1008590.9166;"-Kiawe, was war das denn?
+-Pika."
+294;1009216.5416;1011969.2916;"-Eine Z-Attacke.
+-Z-Attacke?"
+295;1012720.0416;1014805.4582;"-Ja.
+-Das ist unser Kiawe."
+296;1014888.875;1016724.0416;"Du warst auch toll, Ash."
+297;1016807.4582;1020894.875;"Z-Attacken sind spezielle Attacken
+aus unserer Region."
+298;1020978.2916;1026233.5416;"Die Region besteht aus vier Inseln
+und jede hat ihren Schutzpatron."
+299;1027568.2082;1033032;"Nur wer an einer Zeremonie teilnimmt,
+kann Z-Attacken einsetzen."
+300;1033115.4166;1039121.4166;"Cool, ein Schutzpatron,
+Inselwanderschaft und Z-Attacken."
+301;1039955.5832;1042499.7916;"Ihr kämpftet auf Megahieb-Niveau."
+302;1044001.2916;1047463.0832;"Du scheinst einen guten Kampf
+zu genießen."
+303;1047546.5;1052509.7916;"-Ich will ja auch Pokémon-Meister werden.
+-Verstehe."
+304;1052593.2082;1053469.0832;"Hm?"
+305;1056138.4166;1059224.8332;"-Welches Pokémon ist das denn?
+-Pika?"
+306;1059975.5832;1061518.7916;"Pokémon?"
+307;1061602.2082;1064521.7916;"-Wo denn?
+-Ich sehe nirgendwo eins."
+308;1064605.2082;1067858.4582;"Es war eben noch da.
+Es war ein Pokémon."
+309;1068442.375;1072613.2082;"Es war ganz gelb.
+Mit einem orangen Kamm auf dem Kopf."
+310;1073197.125;1075908.1666;"-Klingt ganz nach...
+-Kapu-Riki."
+311;1076283.5416;1079661.9166;"Du sahst den Schutzpatron von Mele-Mele?"
+312;1080329.25;1083999.5832;"Schutzpatron? Das war echt Kapu-Riki?"
+313;1096386.9582;1098263.8332;"Das ist wirklich gut."
+314;1106730.625;1109900.4582;"-Ist heute was Aufregendes passiert?
+-Hm?"
+315;1110609.5;1112903.4582;"Du scheinst abgelenkt zu sein."
+316;1112986.875;1115656.2082;"Hm?
+[kichert]"
+317;1115739.625;1116824.0416;"[Gackern]"
+318;1116907.4582;1118784.3332;"-Hm?
+-Pika?"
+319;1122579.7916;1124957.1666;"Das war es wieder."
+320;1125958.1666;1128460.6666;"-Wo willst du denn hin?
+-Pikachu."
+321;1135175.7082;1137553.0832;"[gackert]"
+322;1137636.5;1139555.0832;"-Da ist es.
+-Pika."
+323;1141723.9166;1148689.2082;"[keucht]"
+324;1154611.7916;1156321.8332;"[staunen]"
+325;1156405.25;1160075.5832;"Da ist der Schutzpatron.
+Das ist Kapu-Riki."
+326;1163287.125;1165455.9582;"Wieso sehe nur ich dich?"
+327;1168917.75;1170961.4582;"Willst du mir etwas sagen?"
+328;1177092.5832;1178886.0416;"-[keucht]
+-Pika."
+329;1182097.5832;1185017.1666;"Das sieht genauso aus wie Kiawes."
+330;1185642.7916;1189313.125;"[gackert]"
+331;1190772.9166;1191773.9166;"[gackert]"
+332;1193984.4582;1194902.0416;"Hm."
+333;1198197;1199281.4166;"[keucht]"
+334;1209708.5;1211084.875;"[staunt]"
+335;1213212;1216256.7082;"Riki."
+336;1216340.125;1219801.9166;"Hey! [keucht]"
+337;1232898.3332;1234900.3332;"[Ash]
+Das Haus ist toll."
+338;1234983.75;1236485.25;"Weißt du was?"
+339;1236568.6666;1239154.5832;"Im Keller ist ein Fitnessraum."
+340;1239238;1240781.2082;"Das ist fantastisch."
+341;1240864.625;1243784.2082;"Schön, dass ihr eine tolle Zeit habt."
+342;1245077.1666;1246411.8332;"Danke, Mama."
+343;1246495.25;1250916.3332;"Dass ich hierbleibe,
+verdanke ich dir."
+344;1250999.75;1254127.875;"Natürlich, ich bin doch deine Mutter."
+345;1254670.0832;1257673.0832;"Ich erwartete es schon.
+Und hatte recht."
+346;1259466.5416;1262177.5832;"[schreit]
+Ich muss jetzt los."
+347;1262261;1264012.75;"Die Schule fängt an."
+348;1264888.625;1268016.75;"[Delia]
+Schöne Zeit und sei vorsichtig."
+349;1269601.6666;1272229.2916;"-[kichert]
+-Pika! Pika!"
+350;1280988.0416;1284157.875;"-Lass uns um die Wette laufen.
+-Pika!"
+351;1284241.2916;1285742.7916;"Hey! Warte!"
+352;1285826.2082;1287744.7916;"[Ash keucht]"
+353;1287828.2082;1291331.7082;"[Erzähler] Für die beiden
+beginnt eine aufregende Zeit,"
+354;1291957.3332;1297087.4582;"nachdem Ash ein Armband
+von dem Schutzpatron Kapu-Riki erhielt."
+355;1297170.875;1298714.0832;"{\an8}Die Reise geht weiter."
+356;1298797.5;1304803.5;"{\an8}FORTSETZUNG FOLGT..."
