@@ -1,6 +1,8 @@
 # Sub Ripper
 *Ripping subs from Netflix and creating a clean transcript*
 
+![img](https://cdn.brandfolder.io/SH6M70M3/as/q7218m-dhebm8-2wajx0/thibaultpeninawol7qqsffmunsplashjpg_by_Thibault_Penin.jpg?position=4&timestamp=1584570818)
+
 I made this for my own personal language learning study. I've been watching *Pokemon Sun and Moon* on Netflix in German, and now I want to study the transcripts so I can rewatch and understand even more!
 
 **Instructions for Use:**
