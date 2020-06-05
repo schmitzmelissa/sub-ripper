@@ -1,7 +1,7 @@
 # Sub Ripper
 *Ripping subs from Netflix and creating a clean transcript*
 
-I made this for my own personal language learning study. I've been watching *Pokemon Sun and Moon on Netflix* in German, and now I want to study the transcripts so I can rewatch and understand even more!
+I made this for my own personal language learning study. I've been watching *Pokemon Sun and Moon* on Netflix in German, and now I want to study the transcripts so I can rewatch and understand even more!
 
 **Instructions for Use:**
 1. Follow [this tutorial](https://forum.videohelp.com/threads/382919-How-to-extract-Netflix-subtitles) to rip the subtitles file from your desired episode and save as an `.xml` file.
