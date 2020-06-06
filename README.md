@@ -6,7 +6,7 @@
 I made this for my own personal language learning study. I've been watching *Pokemon Sun and Moon* on Netflix in German, and now I want to study the transcripts so I can rewatch and understand even more!
 
 **Instructions for Use:**
-1. Follow [this tutorial](https://forum.videohelp.com/threads/382919-How-to-extract-Netflix-subtitles) to rip the subtitles file from your desired episode and save as an `.xml` file.
+1. Follow [this tutorial](https://forum.videohelp.com/threads/382919-How-to-extract-Netflix-subtitles) to rip the subtitles file from your desired episode and save as an `.xml` file. Requires an active Netflix subscription.
 2. Use the subtitle converter of your choice to generate a `.csv` file. I went with [this one](https://gotranscript.com/subtitle-converter) that allows for conversion from `.xml` to `.csv`.
 3. Use the code below to convert it all to a nice, simple `.txt` file.
 4. Study the transcript however you prefer!
